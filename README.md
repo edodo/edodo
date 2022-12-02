@@ -5,12 +5,14 @@
 # Skills
 ### Platforms & Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-3776AB.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![SpringBoot](https://img.shields.io/badge/SpringBoot-3776AB.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)  
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![.NET](https://img.shields.io/badge/DOTNET-3DDC84.svg?&style=for-the-badge&logo=DOTNET&logoColor=white)  
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)  
 
