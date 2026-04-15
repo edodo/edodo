@@ -1,5 +1,5 @@
 ![edodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edodo&count_private=true&show_icons=true&theme=radical)
-# Skills
+### Skills
 ### Platforms & Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -22,7 +22,6 @@
 ![Intellij](https://img.shields.io/badge/IntelliJ-3DDC84.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
 ### Mail
 [![Tistory](http://img.shields.io/badge/Tistory-6DB33F?style=flat-square&logo=tistory&link=https://edodo.tistory.com/)](https://edodo.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:csm0222@gmail.com)](mailto:csm0222@gmail.com)
