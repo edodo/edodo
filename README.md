@@ -1,5 +1,4 @@
 ![edodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edodo&count_private=true&show_icons=true&theme=radical)
-### Skills
 ### Platforms & Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
